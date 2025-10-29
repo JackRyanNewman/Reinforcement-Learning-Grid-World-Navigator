@@ -25,7 +25,7 @@ A Java implementation of SARSA and Q-learning algorithms for training an agent t
 - `-v <level>`: Verbosity level 1-4 (default: 1)
 - `-l <value>`: Eligibility trace parameter λ 
 - `-w`: Use feature-based Q-learning
-- `p`: pretty print version of the grid worldd. 
+- `-p`: pretty print version of the grid worldd. 
 
 ## Environment Details
 

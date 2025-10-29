@@ -47,6 +47,8 @@ The system provides comprehensive visualization and analysis:
 - Learning progression metrics during training
 - Parameter decay tracking and final performance evaluation
 
+## Read 00-References\assignment-04.pdf for more info
+
 ## Building and Running
 
 Compile the Java source files and run from command line with desired parameters:

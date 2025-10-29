@@ -1,0 +1,21 @@
+Jack Newman
+Date: 12-14-2024
+For viewing best reading experience expand window till you reach end of =.  
+=================================================================================================================================================
+Completion Status: 
+  1. Main Requirements: Fully Complete
+Extra
+  1. flag -B: -> spacedPrint: created to space out the learned greedy policy print between characters and a empty line above. I did this because sometimes the unicode for me would not line up. default is off. 
+  2. flag -D: <Integer>: ->DEBUG: 0 through 4. Default is 0. Add extra verbosity. Like printing out my environment and each character corresponding index to my ActVal array. Prints actions taken during all evaluation episodes and more.   	 	  
+		
+
+Its a eclipse java project, files are in SRC. The main class is called Controller and that's where you can feed it the inputs via command line or an external class. The filing pathing for it is not tied to anything specific. You can also edit my tester file, and add more values to the static variables and then run genPerumutations. Which should run all possible combinations of all static flags. 
+
+
+=================================================================================================================================================
+Other Folders and files: 
+	SRC: Java files to run program. 
+	00-References: Assignment documentation, and referenced lectures.
+	a04-data: Where I store my data, program for file pathing is not necessarily tied to this unless you are using the testing file. 
+	
+=================================================================================================================================================
